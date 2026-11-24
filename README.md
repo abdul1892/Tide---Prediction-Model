@@ -1,4 +1,4 @@
-# SafeDriveVision
+# Tide-Level Forecasting with LSTM
 
 Short-horizon tide forecasting that learns directly from a station's own historical tide-gauge readings, using stacked LSTM networks on raw water level — no harmonic decomposition, no external inputs.
 
